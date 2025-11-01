@@ -1,1 +1,0 @@
-export default function App(){return <div>Hello from AI Writer App ✅</div>;}
